@@ -147,12 +147,7 @@ body {
 .bg-danger {
   background-color: #b1a374 !important;
 }
-.btn-primary,
-.btn-primary:active {
-  background-color: #ff7f9f !important;
-  border-color: #ff7f9f !important;
-  color: #ffffff !important;
-}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
@@ -556,7 +551,7 @@ a:hover {
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #000;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -1707,9 +1702,6 @@ body {
   .cid-rgE1IHAUk3 .media-container-column {
     padding: 1rem !important;
   }
-}
-.cid-rgE1IHAUk3 H1 {
-  color: #fff;
 }
 .cid-rgE1IHAUk3 H3 {
   color: #ffffff;
